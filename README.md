@@ -1,2 +1,6 @@
-# Palmoria_HR_Analysis
-Case Study 3: HR Analysis for Palmoria Group
+# Palmoria HR Analysis
+Case Study 3 deliverables for Palmoria Group HR Analysis:
+- `case3_report.md`: Analysis report with insights for 5 questions.
+- `emp-data-processed.xlsx`: Cleaned dataset and pivot tables.
+- `Palmoria_HR_Analysis.pbix`: Power BI visualizations for Questions 1–5.
+- Visuals: Q1–Q5 (in root).
