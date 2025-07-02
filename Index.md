@@ -18,10 +18,12 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Male: 464 (49.20%)
   - Female: 440 (46.66%)
   - Non-Disclosed: 39 (4.14%)
+    ![Q1](Q1_Organization-Wide_Distribution.png)
 - **By Region**:
   - Abuja (333): Female: 158 (47.4%), Male: 158 (47.4%), Non-Disclosed: 17 (5.1%)
   - Kaduna (360): Female: 164 (45.6%), Male: 182 (50.6%), Non-Disclosed: 14 (3.9%)
   - Lagos (250): Female: 118 (47.2%), Male: 124 (49.6%), Non-Disclosed: 8 (3.2%)
+    ![Q1](Q1_Gender_Distribution_by_Region.png)
 - **By Department**:
   - Accounting (67): Female: 28 (41.8%), Male: 37 (55.2%), Non-Disclosed: 2 (3.0%)
   - Business Development (81): Female: 41 (50.6%), Male: 37 (45.7%), Non-Disclosed: 3 (3.7%)
@@ -35,8 +37,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Services (82): Female: 42 (51.2%), Male: 37 (45.1%), Non-Disclosed: 3 (3.7%)
   - Support (80): Female: 34 (42.5%), Male: 42 (52.5%), Non-Disclosed: 4 (5.0%)
   - Training (76): Female: 36 (47.4%), Male: 37 (48.7%), Non-Disclosed: 3 (3.9%)
-
-*Visuals*: ![Q1](Q1_Organization-Wide_Distribution.png), ![Q1](Q1_Gender_Distribution_by_Region.png), ![Q1](Q1_Gender_Distribution_by_Department.png)
+     ![Q1](Q1_Gender_Distribution_by_Department.png)
 
 ### 2. Ratings by Gender
 - **Female** (440):
@@ -61,8 +62,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Very Good: 5 (12.8%)
   - Very Poor: 3 (7.7%)
 - Note: Non-Disclosed has lower No Bonus (5.1%) than Female (8.0%) and Male (7.6%), suggesting no bias in missing ratings. Females have higher Very Good ratings (11.1%) than Males (8.1%).
-
-*Visual*: ![Q2](Q2_Ratings_Distribution_by_Gender.png)
+![Q2](Q2_Ratings_Distribution_by_Gender.png)
 
 ### 3. Salary Structure and Gender Pay Gap
 - **Overall**:
@@ -70,6 +70,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Female: $72,165.68
   - Non-Disclosed: $78,658.72
   - Pay Gap (Male vs. Female): 3.57%
+    ![Q3](Q3_Average_Salary_by_Gender.png)
 - **By Department**:
   - Business Development: Female: $74,627.80, Male: $82,016.49, Gap: 9.01%
   - Engineering: Female: $75,422.11, Male: $67,916.94, Gap: -11.05% (Female earns more)
@@ -82,18 +83,19 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Services: Female: $73,075.48, Male: $79,456.22, Gap: 8.03%
   - Support: Female: $72,415.00, Male: $77,414.52, Gap: 6.46%
   - Training: Female: $77,082.22, Male: $74,896.22, Gap: -2.92% (Female earns more)
+    ![Q3](Q3_Average_Salary_by_Department_and_Gender.png)
 - **By Region**:
   - Abuja: Female: $70,452.03, Male: $73,368.16, Gap: 3.97%
   - Kaduna: Female: $72,379.21, Male: $74,849.95, Gap: 3.30%
   - Lagos: Female: $74,163.47, Male: $76,680.65, Gap: 3.28%
 - Note: Non-Disclosed (4.14%) excluded from pay gap calculations due to small sample size.
-
-*Visuals*: ![Q3](Q3_Average_Salary_by_Gender.png), ![Q3](Q3_Average_Salary_by_Department_and_Gender.png), ![Q3](Q3_Average_Salary_by_Region.png)
+  ![Q3](Q3_Average_Salary_by_Region.png)
 
 ### 4. Minimum Salary and Pay Distribution
 - **$90,000 Minimum**:
   - Below $90,000: 651 (69.03%), including $37,800.
   - At or Above $90,000: 292 (30.97%).
+    ![Q4](Q4_Employees_Meeting_$90,000_Minimum_Salary.png)
 - **Pay Bands**:
   - 20,000–29,999: 26
   - 30,000–39,999: 103
@@ -105,6 +107,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - 90,000–99,999: 90
   - 100,000–109,999: 105
   - 110,000–119,999: 97
+    ![Q4](Q4_Salary_Distribution_by_$10,000_Bands.png)
 - **By Region**:
   - Abuja (333):
     - 20,000–29,999: 9
@@ -140,8 +143,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
     - 100,000–109,999: 25
     - 110,000–119,999: 30
 - Note: Kaduna has the most employees (360) and highest count in $70,000–$79,999 (48). Abuja has the most in $40,000–$49,999 (45). Lagos has fewer low-band employees (e.g., 20,000–29,999: 6).
-
-*Visuals*: ![Q4](Q4_Employees_Meeting_$90,000_Minimum_Salary.png),![Q4](Q4_Salary_Distribution_by_$10,000_Bands.png), ![Q4](Q4_Salary_Distribution_by_Region.png)
+![Q4](Q4_Salary_Distribution_by_Region.png)
 
 ### 5. Bonus Calculations
 - **Individual Bonuses**: Calculated using `Bonus Rules` (e.g., Sales, Good = 5.10%, Not Rated = 0%).
@@ -150,10 +152,10 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Abuja: $24,790,484.45
   - Kaduna: $27,418,141.46
   - Lagos: $19,526,793.31
+    ![Q5](Q5_Total_Compension_by_Region.png)
 - **Company-wide**: $71,735,419.22
 - Note: Kaduna has the highest total compensation ($27.4M) due to the most employees (360). Lagos has the lowest ($19.5M) with 250 employees.
-
-*Visuals*: ![Q5](Q5_Total_Compension_by_Region.png), ![Q5](Q5_Company-Wide_Total_Compensation.png)
+![Q5](Q5_Company-Wide_Total_Compensation.png)
 
 ## Recommendations
 - Address pay gaps in Business Development (9.01%), Human Resources (9.78%), and Services (8.03%).
