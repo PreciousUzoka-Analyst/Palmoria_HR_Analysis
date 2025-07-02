@@ -4,4 +4,4 @@ Case Study 3 deliverables for Palmoria Group HR Analysis:
 - `emp-data-processed.xlsx`: Cleaned dataset and pivot tables.
 - `Palmoria_HR_Analysis.pbix`: Power BI visualizations for Questions 1–5.
 - Visuals: Q1–Q5 (in root).
-[GitHub](https://preciousuzoka-analyst.github.io/Palmoria_HR_Analysis/)
+[GitHub Pages](https://preciousuzoka-analyst.github.io/Palmoria_HR_Analysis/)
