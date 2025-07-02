@@ -152,7 +152,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
   - Abuja: $24,790,484.45
   - Kaduna: $27,418,141.46
   - Lagos: $19,526,793.31
-    ![Q5](Q5_Total_Compension_by_Region.png)
+    ![Q5](Q5_Total_Compensation_by_Region.png)
 - **Company-wide**: $71,735,419.22
 - Note: Kaduna has the highest total compensation ($27.4M) due to the most employees (360). Lagos has the lowest ($19.5M) with 250 employees.
 ![Q5](Q5_Company-Wide_Total_Compensation.png)
