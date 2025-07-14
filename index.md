@@ -1,9 +1,10 @@
-# Palmoria Group HR Analysis - Incubator DSA Case Study 3
+# Palmoria Group HR Analysis
 
-## Introduction
-Analyzed HR data for Palmoria Group to address gender inequality, salary compliance, and bonus allocation across 943 employees.
+This project analyzes HR data for Palmoria Group (943 employees) to provide insights into demographics, pay equity, and performance, using `Excel` and `Power BI`.
 
-## Data Cleaning
+## Methodology
+
+-**Data Cleaning:** (Used `Excel` to remove blanks, standardize `Gender` with `TRIM`, and convert text to numeric data)
 - Removed 4 duplicates (943 rows remain).
 - Replaced 43 blank `Gender` with "Non-Disclosed" (fixed `(blank)` with `TRIM`).
 - Removed 28 `NULL` `Department` and 43 blank `Salary` rows.
@@ -11,7 +12,7 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
 - Fixed `Bonus Amount` formatting to show "$0.00" for "No Bonus" rows (Currency format).
 - Converted `Salary` from text to numeric to fix `Meets_Minimum` (e.g., $37,800 identified).
 
-## Analysis
+**Analysis:** (Calculated pay gaps and departmental metrics using pivot tables and `Power BI` measures)
 
 ### 1. Gender Distribution
 - **Organization-wide**:
@@ -169,3 +170,5 @@ Analyzed HR data for Palmoria Group to address gender inequality, salary complia
 ## Files
 - [Excel Dataset](Cleaned_Palmoria_Group.xlsx)
 - [Power BI File](Palmoria_HR_Analysis.pbix)
+
+This project showcases my expertise in HR analytics, data visualization, and actionable reporting for business decisions.
